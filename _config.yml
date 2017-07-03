@@ -1,15 +1,15 @@
 # Site Info
-title:              "The Plain"
-description:        "The Plain is a minimalist Jekyll theme, that's it. Can't say anymore..."
+title:              "横撇竖捺"
+description:        "一个处女座破作图的极简日常."
 google_verify:      epFgX0s_0RM3CdjwFcsewfXzPov2g8s9ZBOLyaIUH-o # Put your Google Verification here
 google_analytics:   UA-XXXXXXX-X # Put your Google Analytics code
 
 # Author Info
-author_name:        "YOUR_NAME" # Your name here
-author_email:       hnrird@gmail.com # Your email here
+author_name:        "Mr.Ok" # Your name here
+author_email:       565326070@163.com # Your email here
 author_gravatar:    2b38b1b0e7e08b69379bd61582adf0c8 # Your Gravatar md5 hash here for logo
-twitter_username:   HeiswayiNrird # Your Twitter username here
-github_username:    heiswayi # Your GitHub username here
+twitter_username:   墙太高不翻 # Your Twitter username here
+github_username:    mr-ok # Your GitHub username here
 
 # Site Settings
 baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
