@@ -23,6 +23,15 @@ layout: default
 		<a class="home" href="{{site.baseurl}}/" title="Back to Homepage">Home</a>
   {% if page.previous.url %}
 		<span> &middot; </span>
+	<!--PC版-->
+<div id="SOHUCS" ></div>
+<script charset="utf-8" type="text/javascript" src="https://changyan.sohu.com/upload/changyan.js" ></script>
+<script type="text/javascript">
+window.changyan.api.config({
+appid: 'cysFiNeuu',
+conf: 'prod_ba63fe37a5cec21ddb192ae655ad1834'
+});
+</script>
     <a class="prev" href="{{ site.baseurl }}{{page.previous.url}}" title="PREV: {{page.previous.title}}">&gt;&gt;</a>
   {% endif %}
 </div>
