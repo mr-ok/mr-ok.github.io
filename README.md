@@ -6,7 +6,7 @@ The Plain is a minimalist Jekyll theme, designed to focus on writing that really
 
 ### Screenshot
 
-![The Plain Screenshot](http://i.imgur.com/8ZXhjfV.png)
+![The Plain Screenshot](http://osia82otu.bkt.clouddn.com/github.jpg)
 
 ### Philosophy
 
