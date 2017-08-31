@@ -1,6 +1,6 @@
-# The Plain v3.0
+# The Plain v3.2
 
-The Plain is a minimalist Jekyll theme, designed to focus on writing that really matters to you and your audience. Everything else is just a distraction. Nothing more other than useful and understandable information sharing. I have made a final update to this theme. This theme is suit best for personal blog type, but not limited to. P/S: This theme is originally inspired from Leonard Lamprecht's original [Jekyll theme](https://github.com/leo/leo.github.io) (thanks!).
+之前倒腾博客关注点竟在博客主题上，到后来已经不想再折腾主题了，索性就找了一个简单的不能再简单的主题，就想简简单单的记录点什么，少即是多……
 
 [**博客演示**](https://mr-ok.github.io//)
 
